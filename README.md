@@ -6,11 +6,11 @@
 
 Обученная модель доступна для скачивания и использования на Hugging Face Hub:
 
-👉 **[Ссылка на модель: `MariaKras/toxic-model`](https://huggingface.co/MariaKras/toxic-model)**
+**[Ссылка на модель: `MariaKras/toxic-model`](https://huggingface.co/MariaKras/toxic-model)**
 
 Модель автоматически загружается при запуске приложения.
 
-## 🚀 Запуск приложения
+## Запуск приложения
 
 ### Локальный запуск
 
